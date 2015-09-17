@@ -1,5 +1,5 @@
 `timescale 1ns / 1ps
-
+//LOLOL
 module BCD(
     input wire [5:0] num_bin,
     output reg [3:0] unid, dec
